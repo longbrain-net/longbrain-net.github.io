@@ -1,2 +1,3 @@
-# longbrain-net.github.io
-Company Website
+# longbrain.net
+
+LongBrain's Company Website
